@@ -61,7 +61,7 @@ The dashboard covers:
 **Facebook Data Analysis**
 ![Dashboard Overview](https://github.com/Shivam4410/Meta-Ads-Performance-Data-Analysis-Project/blob/main/Facebook%20Data%20Analysis.png)
 **Instagram Data Analysis**
-![Dashboard Overview]( https://github.com/Shivam4410/Meta-Ads-Performance-Data-Analysis-Project/blob/main/Facebook%20Data%20Analysis.png)
+![Dashboard Overview](https://github.com/Shivam4410/Meta-Ads-Performance-Data-Analysis-Project/blob/main/Instagram%20Data%20Analysis.png)
 
 ---
 
