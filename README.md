@@ -67,7 +67,7 @@ The dashboard covers:
 
 ## 🎥 Dashboard Link. 
 
-🔗 [Live Dashboard Link]( https://app.powerbi.com/groups/12398432-f9f7-42e4-887e-b5180c01332e/reports/fbf02e60-5b3e-43d0-a423-98bddcb4b864/7ab55b323c7000d0b801?experience=power-bi)
+🔗 [Live Dashboard Link](https://app.powerbi.com/groups/b51cf3cc-d6e9-4767-9675-dcb8c27c7b63/reports/c4600813-9c5c-4e23-ae7e-9e1b917e72ba/7ab55b323c7000d0b801?experience=power-bi)
 
 ---
 
